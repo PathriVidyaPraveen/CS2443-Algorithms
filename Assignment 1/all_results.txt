@@ -1,0 +1,13 @@
+Edit Distance Results
+=====================
+
+S1.txt vs S2.txt : 156
+S1.txt vs S3.txt : 242
+S1.txt vs S4.txt : 544
+S1.txt vs S5.txt : 245
+S2.txt vs S3.txt : 253
+S2.txt vs S4.txt : 545
+S2.txt vs S5.txt : 244
+S3.txt vs S4.txt : 556
+S3.txt vs S5.txt : 221
+S4.txt vs S5.txt : 551
